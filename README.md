@@ -55,7 +55,6 @@
 ---
 ### 论文截图：
 ![image/1.png](limage/1.png)
-![image/1.png](limage/2.png)
 
 ### 程序截图：
 ![image/1.png](image/1.png)
@@ -67,7 +66,5 @@
 ![image/1.png](image/7.png)
 ![image/1.png](image/8.png)
 ![image/1.png](image/9.png)
-![image/1.png](image/10.png)
-![image/1.png](image/11.png)
 
 
